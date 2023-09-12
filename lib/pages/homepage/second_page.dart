@@ -36,6 +36,7 @@ class HomePageState extends State<HomePage> {
           Padding(
             padding: const EdgeInsets.only(left: 20, right: 20),
             child: TextField(
+              keyboardType: TextInputType.phone,
               decoration: InputDecoration(
                 prefixIcon: Padding(
                   padding: const EdgeInsets.all(8.0),
