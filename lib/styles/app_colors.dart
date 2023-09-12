@@ -13,9 +13,13 @@ class AppColors {
 
   static const gray = Color(0xff828282);
 
+  static const gray2 = Color(0xff7C7C7C);
+
   static const pink = Color(0xffFF746B);
 
   static const green = Color(0xff53B175);
+
+
 
   static const facecolor = Color(0xff4A66AC);
 }

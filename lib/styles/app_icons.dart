@@ -12,4 +12,6 @@ class AppIcons {
   static const google = AssetImage("assets/icons/google.png");
 
   static const vegetables = AssetImage("assets/icons/vegetables-basket.png");
+
+  static const left = AssetImage("assets/icons/left.png");
 }
