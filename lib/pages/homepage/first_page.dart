@@ -1,5 +1,7 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:home_page/styles/app_colors.dart';
+import 'package:home_page/styles/app_icons.dart';
 
 import 'home.dart';
 
@@ -17,7 +19,7 @@ class HomePageState extends State<HomePage> {
           Image(
             height: 300,
             width: 300,
-            image: AssetImage("assets/icons/deliver.png"),
+            image: AppIcons.deliver,
           ),
           Text(
             "Get the fastest \nDelivery groceries at home",
@@ -96,3 +98,4 @@ class HomePageState extends State<HomePage> {
     );
   }
 }
+*/
