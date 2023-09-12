@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:home_page/styles/app_colors.dart';
 import 'package:home_page/styles/app_icons.dart';
@@ -87,3 +88,4 @@ class HomePageState extends State<HomePage> {
     );
   }
 }
+*/
